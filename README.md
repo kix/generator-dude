@@ -29,8 +29,6 @@ $ npm install -g generator-jquery-mobile
 
 ## Running Dude
 
-```
-
 Finally, initiate the generator:
 
 ```
